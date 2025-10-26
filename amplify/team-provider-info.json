@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-momentum-dev-authRole",
+      "UnauthRoleName": "amplify-momentum-dev-unauthRole",
+      "Region": "us-east-1"
+    }
+  }
+}
